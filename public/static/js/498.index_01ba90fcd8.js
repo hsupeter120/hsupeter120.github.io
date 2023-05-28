@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_20230526=self.webpackChunk_20230526||[]).push([[498],{498:(e,t,n)=>{n.r(t),n.d(t,{default:()=>u});var r=n(252);const s={class:"flex justify-center items-center text-[60px]"},c={},u=(0,n(744).Z)(c,[["render",function(e,t){return(0,r.wg)(),(0,r.iD)("div",s,"Introduce")}]])}}]);
